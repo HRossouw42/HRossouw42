@@ -11,6 +11,6 @@ About me:
 - 🌱 I’m currently learning Python, and there's always more Javascript 
 - 🤔 I’m looking for help with jobs around the London area
 - 💬 Ask me about obscure tabletop games
-- 📫 How to reach me: via email
+- 📫 How to reach me: via email or [LinkedIn](https://www.linkedin.com/in/harmunrossouw/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Was an extra in a music video once.
